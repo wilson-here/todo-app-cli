@@ -1,0 +1,24 @@
+{
+  "name": "todo-app-cli",
+  "version": "1.0.0",
+  "description": "an cli tool to help you temporarily skip those frustrating tasks in your project and comeback later whenever you're ready with a fresh mind :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilson-here/todo-app-cli.git"
+  },
+  "keywords": [
+    "todo",
+    "cli",
+    "manage-task"
+  ],
+  "author": "wilson-here",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wilson-here/todo-app-cli/issues"
+  },
+  "homepage": "https://github.com/wilson-here/todo-app-cli#readme"
+}
